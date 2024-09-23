@@ -17,18 +17,23 @@ automatic-watering-system/
 
 ## Componentes
 - ESP32
+
 ![image](https://github.com/user-attachments/assets/43334cbc-8589-4683-8016-7dc90dd63c35)
 
 - Sensor de Humedad YL-69
+
 ![image](https://github.com/user-attachments/assets/b92fabb2-9591-40a9-a02a-d3e6a352460d)
 
 - Módulo Relé SRD-12VDC
+
 ![image](https://github.com/user-attachments/assets/71da27a5-f1c7-4d80-9efd-6b22da37e28b)
 
 - Bomba de Agua SIG0833
+
 ![image](https://github.com/user-attachments/assets/5f4dfe9f-d6d3-4f75-b516-e3d35a80868c)
 
 - Fuente de 12V para la bomba
+
 ![image](https://github.com/user-attachments/assets/d2768439-75ad-4b8f-8918-07122186f8df)
 
 
