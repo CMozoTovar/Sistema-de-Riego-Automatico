@@ -1,5 +1,5 @@
 # Sistema-de-Riego-Automatico
-Este proyecto implementa un sistema de riego automático utilizando un ESP32, un sensor de humedad de suelo YL-69, y una bomba de agua controlada por un relé.
+El proyecto consiste en un sistema de riego automático basado en un ESP32, diseñado para regar plantas de manera automática en función de los niveles de humedad en el suelo. Utiliza un sensor de humedad del suelo YL-69 para medir la humedad y, dependiendo del valor leído, activa o desactiva una bomba de agua SIG0833 controlada mediante un módulo relé SRD-12VDC. El objetivo es garantizar que las plantas reciban la cantidad adecuada de agua sin intervención manual constante.
 
 ## Estructura del Proyecto
 automatic-watering-system/
